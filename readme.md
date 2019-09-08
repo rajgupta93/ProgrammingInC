@@ -2,7 +2,7 @@
 
 Sun Sep 8, 2019 []
 
-git repo: `introduction`
+Git repo directory: `introduction`
 
 - Introduction & Installation
 - Compiler vs Interpreter
