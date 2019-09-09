@@ -21,3 +21,24 @@ Git repo directory: `introduction`
 * Compiler vs Interpreter
 * Demo Program
 * Tokens
+
+# Programming With C Language
+
+Mon Sep 9, 2019 [https://youtu.be/VxQq1SpNewY]
+
+Git repo directory: `introduction`
+
+- tokens
+- compilation processes
+  - preprocessing
+    - `gcc -E demo.c -o demo.i`
+  - compilation
+    - `gcc -S demo.i -o demo.s`
+  - Assembly code generation
+    - `gcc -c demo.s -o demo.o`
+  - Linking
+    - `gcc demo.o -o demo.out` [Linux]
+    - `gcc demo.o -o demo.exe` [Windows]
+- To execute/run
+  - `demo.exe` [Windows]
+  - `./demo.out` [Linux]
