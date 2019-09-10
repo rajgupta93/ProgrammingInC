@@ -26,8 +26,6 @@ Git repo directory: `introduction`
 
 Mon Sep 9, 2019 [https://youtu.be/VxQq1SpNewY]
 
-Git repo directory: `introduction`
-
 - tokens
 - compilation processes
   - preprocessing
@@ -42,3 +40,12 @@ Git repo directory: `introduction`
 - To execute/run
   - `demo.exe` [Windows]
   - `./demo.out` [Linux]
+
+# C Functions
+
+Tue Sep 10, 2019 [https://youtu.be/VXPaKYzvWUA]
+
+Git repo directory: `c-functions`
+
+- printf & scanf
+- How to define C functions
