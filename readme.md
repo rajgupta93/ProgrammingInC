@@ -49,3 +49,15 @@ Git repo directory: `c-functions`
 
 - printf & scanf
 - How to define C functions
+
+# C Operators
+
+Wed Sep 11, 2019 [https://youtu.be/eVnLfSOFpPw]
+
+Git repo directory: `c-operators`
+
+- arithmetic operators
+- comparisonal operators
+- logical operators
+- shorthand/assignment operators
+- increment & decreament operators
