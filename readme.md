@@ -61,3 +61,13 @@ Git repo directory: `c-operators`
 - logical operators
 - shorthand/assignment operators
 - increment & decreament operators
+
+# C if...else & switch...case
+
+Wed Sep 11, 2019 [https://youtu.be/Y11QBWdORD4]
+
+Git repo directory: `if-else-switch-case`
+
+- if else
+- switch case
+- examples
