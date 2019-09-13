@@ -64,9 +64,19 @@ Git repo directory: `c-operators`
 
 # C if...else & switch...case
 
-Wed Sep 11, 2019 [https://youtu.be/Y11QBWdORD4]
+Thu Sep 12, 2019 [https://youtu.be/Y11QBWdORD4]
 
 Git repo directory: `if-else-switch-case`
+
+- if else
+- switch case
+- examples
+
+# C Loops - while, for, do...while
+
+Fri Sep 13, 2019 [https://youtu.be/bBEDwjdOh4g]
+
+Git repo directory: `loop`
 
 - if else
 - switch case
