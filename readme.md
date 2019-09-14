@@ -81,3 +81,9 @@ Git repo directory: `loop`
 - if else
 - switch case
 - examples
+
+# C Arrays - Numeric & Character Arrays [1D/2D]
+
+Sat Sep 14, 2019 [https://youtu.be/xcb4yDGd5rY]
+
+Git repo directory: `arrays`
