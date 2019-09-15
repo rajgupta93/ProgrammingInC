@@ -87,3 +87,9 @@ Git repo directory: `loop`
 Sat Sep 14, 2019 [https://youtu.be/xcb4yDGd5rY]
 
 Git repo directory: `arrays`
+
+# C Pointers
+
+Sun Sep 15, 2019 [https://youtu.be/lRWL68aCgM8]
+
+Git repo directory: `pointers`
